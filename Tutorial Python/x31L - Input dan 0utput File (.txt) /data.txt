@@ -1,0 +1,5 @@
+ini adalah write mode test1
+ini adalah baris keduanyaa
+ini adalah baris ketiganyaa
+ini tambahan dari mode appending hehe
+ini tambahan dari mode appending hehe
